@@ -32,6 +32,8 @@ export class CategoriasPage {
       this.items = response;
     },
     error => {});
+
+    
   }
 
 }
